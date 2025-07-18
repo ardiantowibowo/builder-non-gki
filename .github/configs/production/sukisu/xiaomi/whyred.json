@@ -3,7 +3,7 @@
     "kernelSource": {
       "device": "whyred",
       "vendor": "xiaomi",
-      "name": "sukisu-ultra-susfs",
+      "name": "sukisu-ultra-susfs-test",
       "defconfig": "ranchu64_defconfig",
       "extraConfig": "",
       "repo": "https://github.com/ardiantowibowo/android_kernel_xiaomi_sdm660_419",
