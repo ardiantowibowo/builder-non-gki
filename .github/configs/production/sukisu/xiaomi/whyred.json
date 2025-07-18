@@ -9,10 +9,6 @@
     "branch": "android-4.19-stable"
   },
   "use_dtb": false,
-  "kp": {
-    "use": false, // If you don't use kernel patch (APatch) leave this alone
-    "kpimg_link": "" // If you don't use kernel patch (APatch) leave this alone
-  },
   "kernelsu": {
     "enable": true, // If you don't use ksu, set to false
     "setupLink": "https://raw.githubusercontent.com/kernel-build-from-rainyland/SukiSU-Ultra/main/kernel/setup.sh", // The setup link of ksu, check the manual in their repo
