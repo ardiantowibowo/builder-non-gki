@@ -1,6 +1,6 @@
 {
   "kernelSource": {
-    "device": "whyred", // device codename
+    "device": "ranchu64", // device codename
     "vendor": "xiaomi", // device manufacture
     "name": "whyred-sukisu-test", // type whatever you want here
     "defconfig": "ranchu64_defconfig", // the defconfig name in arch/arm64/configs folder. Choose the one have your device codename
