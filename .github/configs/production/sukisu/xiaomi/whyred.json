@@ -1,12 +1,12 @@
 {
   "kernelSource": {
-    "device": "ranchu64", // device codename
-    "vendor": "xiaomi", // device manufacture
-    "name": "whyred-sukisu-test", // type whatever you want here
-    "defconfig": "ranchu64_defconfig", // the defconfig name in arch/arm64/configs folder. Choose the one have your device codename
-    "extraConfig": "", // leave this empty if you dont have any extra config file like vendor/venus_QGKI.config
-    "repo": "https://github.com/ardiantowibowo/android_kernel_xiaomi_sdm660_419", // the kernel source link you forked and modified
-    "branch": "android-4.19-stable" // the branch if the kernel source forked and modified. Open kernel source link again and see the button below kernel source name, you will see the branch you modified
+    "device": "ranchu64",
+    "vendor": "xiaomi",
+    "name": "whyred-sukisu-test",
+    "defconfig": "ranchu64_defconfig",    
+    "extraConfig": "", 
+    "repo": "https://github.com/ardiantowibowo/android_kernel_xiaomi_sdm660_419",
+    "branch": "android-4.19-stable"
   },
   "use_dtb": false,
   "kp": {
@@ -57,6 +57,6 @@
     "use": true, // If you use Anykernel method, enable this
     "release": true,
     "repo": "https://github.com/kernel-build-from-rainyland/AnyKernel3", // Your anykernel link, just find it somewhere in github. or clone it from https://github.com/kernel-build-from-rainyland/AnyKernel3. delete device.name2=sunny and edit device.name1=mojito to your device codename
-    "branch": "master" // the branch of that anykernel
+    "branch": "ruby" // the branch of that anykernel
   }
 }
