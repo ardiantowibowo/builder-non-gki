@@ -1,8 +1,8 @@
 {
   "kernelSource": {
-    "device": "ranchu64",
+    "device": "whyred",
     "vendor": "xiaomi",
-    "name": "whyred-sukisu-test",
+    "name": "whyred-sukisu",
     "defconfig": "ranchu64_defconfig",    
     "extraConfig": "", 
     "repo": "https://github.com/ardiantowibowo/android_kernel_xiaomi_sdm660_419",
