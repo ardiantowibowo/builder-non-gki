@@ -12,8 +12,8 @@
     "use_dtb": false,
     "use_python2": false,
     "kp": {
-      "use": true,
-      "kpimg_link": "https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch/releases/download/0.12.0/kpimg"
+      "use": false,
+      "kpimg_link": ""
     },
     "kernelsu": {
       "enable": true,
